@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.stanislav.sazonov.calculator">
-    <module_version install_time="1393959980415" last="true" origin="installer" specification_version="1.0">
+    <module_version install_time="1395927205930" last="true" origin="installer" specification_version="1.0">
         <file crc="1211156882" name="config/Modules/org-stanislav-sazonov-calculator.xml"/>
-        <file crc="1158282005" name="modules/org-stanislav-sazonov-calculator.jar"/>
+        <file crc="1840578891" name="modules/org-stanislav-sazonov-calculator.jar"/>
     </module_version>
 </module>
