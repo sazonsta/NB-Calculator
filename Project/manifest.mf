@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.stanislav.sazonov.calculator
+OpenIDE-Module-Localizing-Bundle: org/stanislav/sazonov/calculator/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
